@@ -14,7 +14,6 @@ In this project, we aim to tackle the problem of fake news detection using machi
 
 This project is collaborated by:
 * Ruddy Simonpour <ruddys@sandiego.edu>
-* Arya Shahbazi <ashahbazi@sandiego.edu>
 * Mohammad Mahmoudighaznavi <mmahmoudighaznavi@sandiego.edu>
 
 ---
