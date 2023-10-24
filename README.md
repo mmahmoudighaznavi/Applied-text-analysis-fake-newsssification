@@ -83,7 +83,7 @@ from sklearn.model_selection import train_test_s
 
 ## Methodology
 
-### Data Cleaning and Pre-processing
+### Data Cleaning
 
 The first step in our analysis involved cleaning the data. We removed unnecessary columns and handled missing data points. To mitigate the effects of class imbalance, we ensured that there's an equal distribution of the two classes - 'fake' and 'true' news.
 
