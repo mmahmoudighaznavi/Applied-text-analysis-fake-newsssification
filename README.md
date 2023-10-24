@@ -62,13 +62,17 @@ from tensorflow.keras.layers import Embedding, LSTM, SimpleRNN, GRU, Dense
 |-     |- Viz_EDA
 |-     |- Pre-processing
 |-     |- Text Tokenizer
-|-     |- Modeling          
+|-     |- Modeling
+|-     |- Topic Modeling
+|-     |- Web Scraping Aljazeera News Media 
+|-     |- Topic Modeling for Aljazeera News       
 ```
 ---
 
 ## Dataset
 
-The dataset used in this project is sourced from Kaggle, which includes different features like 'author', 'title', and 'text'. The 'text' column contains the content of the news articles. The dataset comprises 20800 rows and 5 columns.
+- [ ] The first dataset used in this project is sourced from Kaggle, which includes different features like 'author', 'title', and 'text'. The 'text' column contains the content of the news articles. The dataset comprises 20800 rows and 5 columns.
+- [ ] The second data resource for this project is sourced from Aljazeera website. Web scraping and selenium used to get fresh news from Aljazeera website. 
 
 ---
 
